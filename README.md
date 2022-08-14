@@ -21,16 +21,15 @@
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Q5whx5qOrsdg9fI0NX9wl?si=a9c656f636bf4bb3)
 
 ### ⚙️ Some Tools and Technologies I use
-<img src="images/flutter.svg">
-<img src="images/dart.svg">
-<img src="images/firebase.svg">
-<img src="images/c++.svg">
-<img src="images/java.svg">
-<img src="images/html-5.svg">
-<img src="images/css3.svg">
-<img src="images/azure.svg">
-
-
+<img src="images/flutter.svg" width="48">
+<img src="images/dart.svg" width="48">
+<img src="images/firebase.svg" width="48">
+<img src="images/c++.svg" width="48">
+<img src="images/java.svg" width="48">
+<img src="images/html-5.svg" width="48">
+<img src="images/css3.svg" width="48">
+<img src="images/azure.svg" width="48">
+<img src="images/git.svg" width="48">
 
 ### 📊 My Github Stats
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=srockstech&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/srockstech)
