@@ -6,4 +6,4 @@
 </p>
 
 ### 🎶 Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/1C5e7ZRscn79tjMEc3swc7?si=8c311042ebdc43a0)
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7?si=3cl_3ZkyRLWj-AUGzT867g)
