@@ -1,1 +1,1 @@
-<img src="https://github.com/srockstech/srockstech/blob/main/images/Header.jpg" height="450">
+<img src="https://github.com/srockstech/srockstech/blob/main/images/Header.jpg" height="480">
