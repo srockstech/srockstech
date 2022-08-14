@@ -5,4 +5,5 @@
 </a> <a href="https://github.com/srockstech?tab=followers"><img src="https://img.shields.io/github/followers/srockstech?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08e5T9dPm6ioZbcQIT7lhb?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+### 🎶 Vibing to
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/1C5e7ZRscn79tjMEc3swc7?si=8c311042ebdc43a0)
