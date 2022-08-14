@@ -6,7 +6,7 @@
 </p>
 
 ### 🎶 Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/1C5e7ZRscn79tjMEc3swc7?si=8c311042ebdc43a0)
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Q5whx5qOrsdg9fI0NX9wl?si=a9c656f636bf4bb3)
 
 ### 📊 My Github Stats
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=srockstech&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/srockstech)
@@ -35,9 +35,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=srockstech&show_icons=true&theme=swift" /></p>
 
 
-## 📬 Reach me out
+## 🔗 Other Profiles
 <p align="left">
 <a href = "https://srocks.tech/"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
+<a href = "https://play.google.com/store/apps/dev?id=5732707080367231305"><img src="https://img.icons8.com/fluent/48/000000/google-play.png"/></a>
 <a href = "https://www.linkedin.com/in/srockstech/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.twitter.com/srockstech/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
