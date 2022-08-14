@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/stars/srockstech/lists/my-projects)**
 
-- 🏫 B.Tech. at: **[Delhi Technological University, India](http://dtu.ac.in/)**
+- 🏫 B.Tech. at **[Delhi Technological University, India](http://dtu.ac.in/)**
 
 - 📫 Mail me at **[sarvagya1115@gmail.com](mailto:sarvagya1115@gmail.com)**
 
@@ -19,6 +19,18 @@
 
 ### 🎶 Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Q5whx5qOrsdg9fI0NX9wl?si=a9c656f636bf4bb3)
+
+### ⚙️ Some Tools and Technologies I use
+<img src="images/flutter.svg">
+<img src="images/dart.svg">
+<img src="images/firebase.svg">
+<img src="images/c++.svg">
+<img src="images/java.svg">
+<img src="images/html-5.svg">
+<img src="images/css3.svg">
+<img src="images/azure.svg">
+
+
 
 ### 📊 My Github Stats
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=srockstech&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/srockstech)
