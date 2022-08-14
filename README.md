@@ -5,9 +5,6 @@
 </a> <a href="https://github.com/srockstech?tab=followers"><img src="https://img.shields.io/github/followers/srockstech?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-### 🎶 Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Q5whx5qOrsdg9fI0NX9wl?si=a9c656f636bf4bb3)
-
 - 🔭 I’m currently working on **[Todo+](https://github.com/srockstech/todo_plus)**
 
 - 🌱 I’m currently learning **Flutter & Firebase**
@@ -18,6 +15,8 @@
 
 - ⚡ Fun fact: **I am a Music Producer & Vocalist too ;)**
 
+### 🎶 Vibing to
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Q5whx5qOrsdg9fI0NX9wl?si=a9c656f636bf4bb3)
 
 ### 📊 My Github Stats
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=srockstech&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/srockstech)
