@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **[Todo+](https://github.com/srockstech/todo_plus)**
 
-- 🌱 I’m currently learning **Flutter & Firebase**
+- 🌱 I’m currently working with **Flutter & Firebase**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/stars/srockstech/lists/my-projects)**
+
+- 🏫 B.Tech. at: **[Delhi Technological University, India](http://dtu.ac.in/)**
 
 - 📫 Mail me at **[sarvagya1115@gmail.com](mailto:sarvagya1115@gmail.com)**
 
