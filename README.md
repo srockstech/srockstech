@@ -21,15 +21,15 @@
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Q5whx5qOrsdg9fI0NX9wl?si=a9c656f636bf4bb3)
 
 ### ⚙️ Some Tools and Technologies I use
-<img src="images/flutter.svg" style="max-width:20%">
-<img src="images/dart.svg" style="max-width:20%">
-<img src="images/firebase.svg" style="max-width:20%">
-<img src="images/c++.svg" style="max-width:20%">
-<img src="images/java.svg" style="max-width:20%">
-<img src="images/html-5.svg" style="max-width:20%">
-<img src="images/css3.svg" style="max-width:20%">
-<img src="images/azure.svg" style="max-width:20%">
-<img src="images/git.svg" style="max-width:20%">
+<code><img src="images/flutter.svg" style="max-width:20%"></code>
+<code><img src="images/dart.svg" style="max-width:20%"></code>
+<code><img src="images/firebase.svg" style="max-width:20%"></code>
+<code><img src="images/c++.svg" style="max-width:20%"></code>
+<code><img src="images/java.svg" style="max-width:20%"></code>
+<code><img src="images/html-5.svg" style="max-width:20%"></code>
+<code><img src="images/css3.svg" style="max-width:20%"></code>
+<code><img src="images/azure.svg" style="max-width:20%"></code>
+<code><img src="images/git.svg" style="max-width:20%"></code>
 
 ### 📊 My Github Stats
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=srockstech&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/srockstech)
