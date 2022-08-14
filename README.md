@@ -20,7 +20,7 @@
 </p> -->
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarvagya Verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srockstech&theme=highcontrast&hide_border=true&background=0D1117"/>
     </a>
 </p>
@@ -28,7 +28,7 @@
 
 
 <br/>
-<a href="https://github.com/kailash360/github-readme-activity-graph"><img alt="Sarvagya Verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srockstech&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Sarvagya Verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srockstech&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srockstech&layout=compact"/></p>
