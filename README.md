@@ -5,7 +5,7 @@
 </a> <a href="https://github.com/srockstech?tab=followers"><img src="https://img.shields.io/github/followers/srockstech?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-- 🔭 I’m currently working on **[Dyeus](https://github.com/srockstech/dyeus)**
+- 🔭 I’m currently working on **[FacePass](https://github.com/srockstech/face-pass)**
 
 - 🌱 I’m currently working with **Flutter & Firebase**
 
