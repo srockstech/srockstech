@@ -7,7 +7,7 @@
 
 ### 🔗 Portfolios and Profiles
 <p align="left">
-<a href = "https://srocks.tech/"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
+<a href = "https://www.srocks.tech/"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
 <a href = "https://play.google.com/store/apps/dev?id=5732707080367231305"><img src="https://img.icons8.com/fluent/48/000000/google-play.png"/></a>
 <a href = "https://www.linkedin.com/in/srockstech/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.twitter.com/srockstech/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
