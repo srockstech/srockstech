@@ -35,12 +35,21 @@
 <code><img src="images/flutter.svg" style="max-width:20%"></code>
 <code><img src="images/dart.svg" style="max-width:20%"></code>
 <code><img src="images/firebase.svg" style="max-width:20%"></code>
-<code><img src="images/c.png" style="max-width:20%"></code>
+<code><img src="images/reactjs.svg" style="max-width:20%"></code>
+<code><img src="images/c.svg" style="max-width:20%"></code>
 <code><img src="images/c++.svg" style="max-width:20%"></code>
+<code><img src="images/python.svg" style="max-width:20%"></code>
+<code><img src="images/kotlin.svg" style="max-width:20%"></code>
 <code><img src="images/java.svg" style="max-width:20%"></code>
 <code><img src="images/html-5.svg" style="max-width:20%"></code>
 <code><img src="images/css3.svg" style="max-width:20%"></code>
-<code><img src="images/es6.png" style="max-width:20%"></code>
+<code><img src="images/javascript.svg" style="max-width:20%"></code>
+<code><img src="images/mysql.svg" style="max-width:20%"></code>
+<code><img src="images/androidstudio.svg" style="max-width:20%"></code>
+<code><img src="images/intellijidea.svg" style="max-width:20%"></code>
+<code><img src="images/expressjs.svg" style="max-width:20%"></code>
+<code><img src="images/nodejs.svg" style="max-width:20%"></code>
+<code><img src="images/rust.svg" style="max-width:20%"></code>
 <code><img src="images/azure.svg" style="max-width:20%"></code>
 <code><img src="images/git.svg" style="max-width:20%"></code>
 
