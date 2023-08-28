@@ -35,10 +35,12 @@
 <code><img src="images/flutter.svg" style="max-width:20%"></code>
 <code><img src="images/dart.svg" style="max-width:20%"></code>
 <code><img src="images/firebase.svg" style="max-width:20%"></code>
+<code><img src="images/c.svg" style="max-width:20%"></code>
 <code><img src="images/c++.svg" style="max-width:20%"></code>
 <code><img src="images/java.svg" style="max-width:20%"></code>
 <code><img src="images/html-5.svg" style="max-width:20%"></code>
 <code><img src="images/css3.svg" style="max-width:20%"></code>
+<code><img src="images/es6.svg" style="max-width:20%"></code>
 <code><img src="images/azure.svg" style="max-width:20%"></code>
 <code><img src="images/git.svg" style="max-width:20%"></code>
 
