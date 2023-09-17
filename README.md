@@ -1,4 +1,4 @@
-<img src="https://github.com/srockstech/srockstech/blob/main/images/Header.jpg" height="100%">
+<img src="https://github.com/srockstech/srockstech/blob/main/images/Header.jpg" height="100%" width="100%">
 <p align="left">
 <a href="https://github.com/srockstech/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=srockstech">
